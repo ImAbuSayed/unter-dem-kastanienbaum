@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unter-dem-kastanienbaum/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Unter dem Kastanienbaum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unter-dem-kastanienbaum/) |
+| **Get License** | [Official Music Licensing for Unter dem Kastanienbaum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unter-dem-kastanienbaum/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Late-Night-Drive, wir parken unterm Kastanienbaum
+> Du in Prada all-black, Baby, du bist wie ein Traum
+> Die City ist eiskalt, doch dein Blick brennt in mich rein
+> Vergiss die andern alle, heute Nacht bist du nur mein
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
