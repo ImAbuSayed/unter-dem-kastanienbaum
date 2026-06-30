@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Unter dem Kastanienbaum
+
+This log tracks the cryptographic history and versioning for the song **Unter dem Kastanienbaum** (unter-dem-kastanienbaum).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T21:34:49.483662 | `v1` | `b9360a22f9b92603c4429e2d51bb4fd2691d7af87451c3199cffc97a8610b212` | `706d65a7892e5644db56f03f6a6ca095106a60ef37d57b5ee68f3382250293c2` | `2026-06-30_unter-dem-kastanienbaum-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unter-dem-kastanienbaum/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Unter dem Kastanienbaum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unter-dem-kastanienbaum/) |
+| **Get License** | [Get License For Unter dem Kastanienbaum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unter-dem-kastanienbaum/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b9360a22f9b92603c4429e2d51bb4fd2691d7af87451c3199cffc97a8610b212` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
